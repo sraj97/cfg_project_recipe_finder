@@ -1,0 +1,41 @@
+Moscow:
+Must
+• Users should be able to enter the book's name to search for it
+• The author of the book should be shown in the search results
+Should
+• The price of the book should be shown on the search
+Could
+• The book's front cover should be shown in the search
+Won't
+• The user should be able to order the book from Amazon
+
+A example list of requirements for a book search:
+   • Users should be able to enter the book's name to search for it
+   • The price of the book should be shown on the search
+   • The user should be able to order the book from Amazon
+   • The author of the book should be shown in the search results
+   • The book's front cover should be shown in the search
+
+Recipe Project:
+
+Must:
+- Ask the user to enter an ingredient that they want to search for (uses input)
+- Create a function that makes a request to the Edamam API with the required ingredient as
+    part of the search query (also included your Application ID and Application Key
+- Get the returned recipes from the API response
+- Display the recipes for each search result
+
+Should:
+- Work regardless of case (lowercase or uppercase)
+- Save the results to a file
+
+Could:
+- Filter by the meal type
+- Show error to user if they try to enter anything but a string
+- Order the results by weight or another piece of data
+- Ask the user additional questions to decide which recipe they should choose
+- Use a different searchable API (suggestions in useful resources) -- not if we are ordering by the weight etc.
+
+Won't:
+- Cross-reference the ingredient against the Edamam nutrition analysis API
+- won't have front end
