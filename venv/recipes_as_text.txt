@@ -1,0 +1,285 @@
+Meal Type Searched: Dinner
+
+Ingredient Searched: Chicken
+
+Recipe Name: Chicken Vesuvio
+Recipe URL: http://www.edamam.com/ontologies/edamam.owl#recipe_b79327d05b8e5b838ad6cfd9576b30b6
+Yield: 4.0
+Ingredients: 
+1/2 cup olive oil
+5 cloves garlic, peeled
+2 large russet potatoes, peeled and cut into chunks
+1 3-4 pound chicken, cut into 8 pieces (or 3 pound chicken legs)
+3/4 cup white wine
+3/4 cup chicken stock
+3 tablespoons chopped parsley
+1 tablespoon dried oregano
+Salt and pepper
+Salt and pepper
+1 cup frozen peas, thawed
+
+
+Recipe Name: Chicken Paprikash
+Recipe URL: http://www.edamam.com/ontologies/edamam.owl#recipe_8275bb28647abcedef0baaf2dcf34f8b
+Yield: 4.0
+Ingredients: 
+640 grams chicken - drumsticks and thighs ( 3 whole chicken legs cut apart)
+640 grams chicken - drumsticks and thighs ( 3 whole chicken legs cut apart)
+1/2 teaspoon salt
+1/4 teaspoon black pepper
+1 tablespoon butter – cultured unsalted (or olive oil)
+240 grams onion sliced thin (1 large onion)
+70 grams Anaheim pepper chopped (1 large pepper)
+25 grams paprika (about 1/4 cup)
+1 cup chicken stock
+1/2 teaspoon salt
+1/2 cup sour cream
+1 tablespoon flour – all-purpose
+
+
+Recipe Name: Baked Chicken
+Recipe URL: http://www.edamam.com/ontologies/edamam.owl#recipe_be3ba087e212f13672b553ecfa876333
+Yield: 4.0
+Ingredients: 
+6 bone-in chicken breast halves, or 6 chicken thighs and wings, skin-on
+1/2 teaspoon coarse salt
+1/2 teaspoon Mrs. Dash seasoning
+1/4 teaspoon freshly ground black pepper
+
+
+Recipe Name: Chicken Teriyaki
+Recipe URL: http://www.edamam.com/ontologies/edamam.owl#recipe_888e9fc4a808e9e4ccdb2ac24a6a2f46
+Yield: 2.0
+Ingredients: 
+1 tbsp. vegetable oil
+4 pieces chicken, trimmed, skin pierced with a fork
+½ cup Teriyaki Sauce
+
+
+Recipe Name: Catalan Chicken
+Recipe URL: http://www.edamam.com/ontologies/edamam.owl#recipe_2463f2482609d7a471dbbf3b268bd956
+Yield: 14.0
+Ingredients: 
+1 whole 4-pound chicken, quartered
+8 slices bacon
+30 cloves garlic
+3 lemons, peeled, rinds thinly sliced and reserved
+½ cup Banyuls or another fortified dessert wine
+1 cup veal or chicken stock
+
+
+Recipe Name: Chicken Stew
+Recipe URL: http://www.edamam.com/ontologies/edamam.owl#recipe_a7c379c59775dd0c7c88710f7fecff81
+Yield: 4.0
+Ingredients: 
+1 pound chicken cut in pieces
+4 carrots
+1 onion
+1 leek
+1 green pepper
+kosher salt
+Freshly ground black pepper
+Extra Virgin Olive Oil
+1 cup white wine
+Chicken broth
+
+
+Recipe Name: Persian Chicken
+Recipe URL: http://www.edamam.com/ontologies/edamam.owl#recipe_4caf01683bf99ddc7c08c35774aae54c
+Yield: 5.0
+Ingredients: 
+2 large onions
+750 g chicken
+500 g mushrooms
+1 cup water
+1 cup red wine
+2 teaspoons chicken stock
+200 ml mayonnaise
+200 ml cream
+small bunch of parsley
+1 teaspoon curry powder
+
+
+Recipe Name: Kreplach (Chicken Dumplings)
+Recipe URL: http://www.edamam.com/ontologies/edamam.owl#recipe_1817e7fccea9ae39d09c0e2c7fb86cb2
+Yield: 8.0
+Ingredients: 
+1½ teaspoons canola oil
+½ small shallot, finely chopped
+1 cup (about ½ pound) raw, boneless chicken meat (preferably from 3 boneless chicken thighs), roughly chopped
+⅔ cup (about ¼ pound) chicken skin and fat (reserved from the 3 chicken thighs)
+2 chicken livers (optional)
+2 garlic cloves, finely chopped
+¼ cup finely chopped chives, plus extra for serving
+1¼ teaspoons kosher salt
+¾ teaspoon freshly ground black pepper
+30 to 34 square wonton wrappers
+8 cups store-bought or homemade chicken broth
+
+
+Recipe Name: Chicken Piccata
+Recipe URL: http://www.edamam.com/ontologies/edamam.owl#recipe_963f621a557c15bd094b0699ad6c717f
+Yield: 4.0
+Ingredients: 
+2-4 boneless, skinless chicken breast halves (1 1/2 pound total)
+2 Tbsp grated Parmesan cheese
+1/3 cup flour
+Salt and pepper
+Salt and pepper
+4 Tbsp olive oil
+4 Tbsp butter
+1/2 cup chicken stock or dry white wine
+3 Tbsp lemon juice
+1/4 cup brined capers
+1/4 cup fresh chopped parsley
+
+
+Recipe Name: Chicken cacciatore
+Recipe URL: http://www.edamam.com/ontologies/edamam.owl#recipe_a6ee2e431ba83557209f48e1cf194f2f
+Yield: 6.0
+Ingredients: 
+8 tbsp olive oil
+1 onion, sliced
+2 celery stalks, roughly chopped
+2 medium carrots, roughly chopped
+6 chicken breasts, or chicken thighs, bones removed
+175ml/6fl oz white wine
+3 tbsp tomato purée
+500ml/17 fl oz chicken stock
+2 bay leaves
+2-3 sage leaves
+1 rosemary sprig
+250g/9oz easy-cook polenta
+Knob of butter
+25g/1oz parmesan
+
+
+**********
+
+
+Meal Type Searched: Breakfast
+
+Ingredient Searched: Eggs
+
+Recipe Name: Poached Eggs
+Recipe URL: http://www.edamam.com/ontologies/edamam.owl#recipe_7a844b79a5df3f11e822cc229bfb3981
+Yield: 4.0
+Ingredients: 
+1 teaspoon vinegar
+4 very fresh large eggs
+
+
+Recipe Name: Scotch Eggs Recipe
+Recipe URL: http://www.edamam.com/ontologies/edamam.owl#recipe_6c37a42ae3403b9f0503bff018cc45a9
+Yield: 4.0
+Ingredients: 
+7 eggs, divided
+1 pound sausage (bratwurst works very well), removed from casing if necessary
+1/4 cup all-purpose flour
+1/2 cup breadcrumbs
+Vegetable oil for frying
+
+
+Recipe Name: Moonstruck eggs
+Recipe URL: http://www.edamam.com/ontologies/edamam.owl#recipe_9d74a7986510d0380b3fb47b7b65bf33
+Yield: 2.0
+Ingredients: 
+2 eggs
+2 pieces good white bread
+5 tablespoons sweet butter
+
+
+Recipe Name: Poached Eggs
+Recipe URL: http://www.edamam.com/ontologies/edamam.owl#recipe_5469edad9dbdd17dec1a891a70ccd592
+Yield: 4.0
+Ingredients: 
+1/4 cup white vinegar
+4 large eggs
+1 slice bread
+Toast, for serving (optional)
+Coarse salt and freshly ground pepper
+Coarse salt and freshly ground pepper
+
+
+Recipe Name: Eggs Florentine
+Recipe URL: http://www.edamam.com/ontologies/edamam.owl#recipe_3ff6be45f90aa636b4e4e015d9779640
+Yield: 2.0
+Ingredients: 
+100g/3½oz butter, cut into cubes
+2 free-range egg yolks
+½ tbsp cold water
+½ tbsp lemon juice
+Salt and freshly ground white pepper
+Salt and freshly ground white pepper
+2 english muffins, split in half horizontally, buttered
+2 large handfuls baby spinach, steamed
+4 free-range eggs, poached
+
+
+Recipe Name: Scotch Eggs
+Recipe URL: http://www.edamam.com/ontologies/edamam.owl#recipe_238ba46e145dd6a7d2974232d5f673d9
+Yield: 6.0
+Ingredients: 
+6 large eggs
+1 cup all-purpose flour
+1 cup finely crushed corn flakes
+7 ounces (3/4 cup) fresh breakfast sausage, casings removed (if necessary)
+Vegetable oil (for frying)
+Kosher salt, freshly ground pepper
+Mustard
+
+
+Recipe Name: Baked green eggs
+Recipe URL: http://www.edamam.com/ontologies/edamam.owl#recipe_b62e5ba508ffbf55a8ed91d99bf47402
+Yield: 2.0
+Ingredients: 
+100g baby spinach , roughly chopped
+4 tbsp fresh pesto
+100ml double cream
+1 tbsp finely grated gruyère (or vegetarian alternative)
+4 medium eggs
+
+
+Recipe Name: Chorizo And Eggs
+Recipe URL: http://www.edamam.com/ontologies/edamam.owl#recipe_5c212a7d1138453ba64536c45c74cdaa
+Yield: 3.0
+Ingredients: 
+Olive oil or bacon fat
+1/3 cup chopped onions (green, red, or yellow onions) optional
+1/4 lb of Mexican chorizo sausage, removed from sausage casing
+3 Tbsp raisins - soaked in hot water for 15 minutes and drained
+5 to 6 eggs
+Salt
+Tortillas - optional
+Cilantro - optional
+
+
+Recipe Name: Poached Eggs On Spinach
+Recipe URL: http://www.edamam.com/ontologies/edamam.owl#recipe_69e764c320d2315dd3446324815f4e68
+Yield: 4.0
+Ingredients: 
+1 bunch Spinach
+2 Eggs
+2 tsp White Vinegar
+1 tbsp Olive oil
+4 cup Water
+1 tsp Salt
+1 pinch Pepper
+
+
+Recipe Name: toast and eggs Recipe
+Recipe URL: http://www.edamam.com/ontologies/edamam.owl#recipe_8975ee211547b21a7c10bb6023c029c7
+Yield: 6.0
+Ingredients: 
+12 bacon strips, diced
+1/2 cup maple syrup
+1/4 cup butter
+12 slices firm-textured white bread
+12 large Eggland’s Best eggs
+Salt and pepper to taste
+Salt and pepper to taste
+
+
+**********
+
+
